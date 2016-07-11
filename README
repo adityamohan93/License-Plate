@@ -1,0 +1,6 @@
+How to run??
+
+export OPENCV_DIR="~/project4"
+cmake -D OpenCV_DIR=$OpenCV_DIR .
+make
+
