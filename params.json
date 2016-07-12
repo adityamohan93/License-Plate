@@ -1,0 +1,6 @@
+{
+  "name": "License-plate-recognition-for-traffic-light-violation",
+  "tagline": "A stand-alone application based on digital image processing to detect license plate from a raw image input directly from live camera feed which included subject, usually a car or motorcycle. It also segments the various characters detected and identifies them using Optical Character Recognition.",
+  "body": "# License-Plate-Recognition-for-Traffic-Light-Violation\r\n\r\nA stand-alone application based on digital image processing to detect license plate from a raw image input directly from live camera feed which included subject, usually a car or motorcycle. It also segments the various characters detected and identifies them using Optical Character Recognition.\r\n\r\nHow to run?\r\n\r\nexport OPENCV_DIR=\"<folder path>\"\r\ncmake -D OpenCV_DIR=$OpenCV_DIR .\r\nmake\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
